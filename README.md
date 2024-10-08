@@ -1,2 +1,2 @@
 # Javascript
- will be storing codes of javascript learnings
+ will be storing my javascript learnings
